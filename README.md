@@ -6,7 +6,7 @@ with full acccount registration functionality based on
 
 This emerged from my quest on the Web for a simple/ready Django Project
 to get started with using account registration and management. 
-Although the [django-registration-redux](https://django-registration-redux.readthedocs.io) is
+Although the [django-registration-redux documentation](https://django-registration-redux.readthedocs.io) is
 of high standard, I missed a complete example. 
 
 Basically this project is based on the
